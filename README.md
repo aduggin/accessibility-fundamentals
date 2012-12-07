@@ -16,6 +16,7 @@ Table of contents
 
 ##The challenge of web development
 An unpredictable landscape of users
+
 * desktop, tablet, mobile, tv
 * browsers new and old
 * personalized settings
@@ -71,6 +72,7 @@ Javascript, Ajax and WAI-ARIA
 
 ##Accessible Web Components
 How to make the following accessible, with code examples
+
 * Common page template
 * Headings
 * Navigation and Menus
@@ -85,6 +87,7 @@ How to make the following accessible, with code examples
 * Light Boxes / Modal Dialog Boxes
 
 ## Case Studies
+
 * Websites that have got in trouble - and why
 * Websites that have done it right - and how
 
@@ -93,6 +96,7 @@ Tools and techniques
 
 ##Resources
 Links
+
 * Guidlelines and Checklists
 * Law and Legislation
 * Articles
